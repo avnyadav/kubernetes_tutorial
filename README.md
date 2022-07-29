@@ -82,10 +82,10 @@ kubectl delete deployment name
 Create deployment using yaml file
 ```
 kubectl apply -f [filename]
-
+```
 
 To check ip mapping
-```
+
 kubectl describe service [service_name]
 ```
 
